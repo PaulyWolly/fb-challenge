@@ -1,0 +1,146 @@
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .align-center {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+    }
+    
+    @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+            font-size: 3.5rem;
+        }
+    }
+    
+    .col {
+        flex: 1 0 0%;
+        top: 24px;
+        position: relative;
+    }
+    
+    .fb-logo-style {
+        height: 24px;
+        width: 24px;
+    }
+    
+    .fw-normal,
+    .fw-bold {
+        color: blue;
+    }
+    
+    .header-text {
+        color: white;
+    }
+    
+    a .nav-link {
+        color: #fff;
+    }
+    
+    a.nav-link:hover {
+        color: red;
+    }
+    
+    .quick-links-container {
+        position: relative;
+        top: 85px;
+        right: 20px
+    }
+    
+    .quick-links-style {
+        font-weight: bold;
+        padding-top: 50px;
+    }
+    
+    .sample-link-style {
+        font-size: 12px;
+    }
+    
+    .image-style {
+        height: 260px
+    }
+    
+    .who-we-are {
+        /* height: 350px; */
+        /* border: 1px solid blue; */
+        max-height: 350px;
+        position: relative;
+        top: -20px;
+    }
+    
+    .who-we-are-content {
+        position: relative;
+        bottom: 40px;
+    }
+    
+    .our-team {
+        /* height: 350px; */
+        /* border: 1px solid blue; */
+        max-height: 400px;
+        position: relative;
+        top: -20px;
+    }
+    
+    .our-team-content {
+        position: relative;
+        bottom: 50px;
+    }
+    
+    .what-we-do {
+        /* height: 350px; */
+        /* border: 1px solid blue; */
+        max-height: 400px;
+        position: relative;
+        top: -20px;
+    }
+    
+    .what-we-do-content {
+        position: relative;
+        bottom: 50px;
+    }
+    
+    .links {
+        /* height: 350px; */
+        /* border: 1px solid blue; */
+        max-height: 200px;
+        position: relative;
+        top: -20px;
+    }
+    
+    .links-content {
+        position: relative;
+        bottom: 40px;
+    }
+    
+    .our-team-name {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    
+    .detail {
+        font-size: 10px;
+        font-weight: 600;
+    }
+    
+    .container-fluid {
+        margin-left: 45px
+    }
+    
+    .display-6 {
+        font-size: 32px;
+    }
+    
+    p.col-md-8.fs-6 {
+        font-size: 8px;
+        font-weight: 600;
+        color: blue;
+    }
